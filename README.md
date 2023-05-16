@@ -13,7 +13,7 @@ The project is expected to have the following API endpoints:
 - Mark task as completed (PATCH _/api/tasks/:id/completed_)
 
 ## TASK 2
- Complete the two question in the `controller/indes.js`. The `getMaxSum` and `uniqueChars` function
+ Complete the two question in the `controller/index.js`. The `getMaxSum` and `uniqueChars` function
 ## Question 1 - getMaxSum
 Write a function called `getMaxSum` that takes an array of integers as input and returns the maximum sum of any contiguous subarray of the given array. If the array is empty or contains only negative integers, the function should return 0. 
  The getMaxSum function takes an array of integers as input and returns the maximum sum of any contiguous subarray of the given array. If the array is empty or contains only negative integers, the function should return 0.
